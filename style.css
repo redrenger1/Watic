@@ -125,7 +125,7 @@ h2 {
 .skill{
     display: inline-block;
     color: #1e3c72 ;
-    text-decoration: none;
+    text-decoration: noneB;
 }
 .card {
     background: white;
