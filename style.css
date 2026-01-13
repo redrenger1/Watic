@@ -122,7 +122,10 @@ h2 {
     justify-content: center;
     flex-wrap: wrap;
 }
-
+.skill{
+    display: flex;
+    color: #1e3c72 ;
+}
 .card {
     background: white;
     padding: 25px;
