@@ -123,8 +123,9 @@ h2 {
     flex-wrap: wrap;
 }
 .skill{
-    display: flex;
+    /* display: flex; */
     color: #1e3c72 ;
+    text-decoration: none;
 }
 .card {
     background: white;
