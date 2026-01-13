@@ -117,13 +117,13 @@ h2 {
 }
 
 .service-box {
-    display: inline-block;
+    display: flex;
     gap: 20px;
     justify-content: center;
     flex-wrap: wrap;
 }
 .skill{
-    /* display: flex; */
+    display: inline-block;
     color: #1e3c72 ;
     text-decoration: none;
 }
